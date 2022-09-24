@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "json-fetch": "^7.5.1",
-    "randomstring": "^1.1.5",
+    "randomstring": "^1.2.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-json-fetch": "^1.0.0",

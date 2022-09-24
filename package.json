@@ -5,8 +5,8 @@
   "dependencies": {
     "json-fetch": "^7.5.1",
     "randomstring": "^1.1.5",
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-json-fetch": "^1.0.0",
     "react-scripts": "2.1.1",
     "react-stomp": "^4.0.0",
